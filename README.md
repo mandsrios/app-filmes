@@ -139,7 +139,3 @@ Este é um aplicativo simples, desenvolvido exclusivamente para:
 - Ideal para estudos, testes e portfólio
 
 📫 Sinta-se à vontade para contribuir, sugerir melhorias ou utilizar como base para outros projetos.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
